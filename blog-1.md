@@ -1,6 +1,6 @@
 The significance of union and intersection types in Typescript.
 
-Union Type : 
+# Union Type : 
 
 We can define a variable or parameter in TypeScript that can hold data of different types by using union types. represented by the symbol "|".
 
@@ -18,7 +18,7 @@ Here userInfo can only accept any string type or number type data.
 
 
 
-Intersection Type : 
+# Intersection Type : 
 
 
 Intersection types in TypeScript combine multiple types into a single type and creates new types that has the characteristics of each merged type.
