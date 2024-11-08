@@ -1,4 +1,4 @@
-The significance of union and intersection types in Typescript.
+## The significance of union and intersection types in Typescript.
 
 # Union Type : 
 
